@@ -1,0 +1,58 @@
+- [58] Concept Design Document
+  + [10] Introduction :: 10 points
+    * High level overview of your project
+  + [10] Background :: 10 points
+    * [5] research on other trail counters present
+    * [5] Discussion about your approach
+  + [12] Feature Description :: 15 points
+       all obvious features described 
+       -2 points for missing feature
+       -1 point for not understanding feature
+    + target counter accuracy 60%
+    + power source
+    + configured with a unique ID and current time
+    + secure bluetooth connection
+    + 8 month battery life
+    + enters low power states to save energy
+    - [2] method update configuration of device not mentioned until milestones
+  + [9] Block Diagram :: 15 points
+    * [0] Block diagram present
+      - The purpose of the block diagram is to describe your
+        system not the platform that you are building it on.
+        Are you going to use all of the hardware in this block
+        diagram? Implying that the title of the cell of the
+        rubric should have been "Your block diagram present".
+    * [4] All components present
+      - You are missing the battery in the system
+    * [5] Logical relationships between components
+  + [9] Theory of Operation :: 25 points
+    * [9] Discussion of all aspects in feature description
+     + [10] counting some the description from features section
+       as details discussed here.
+     - [1] How did you estimate battery life?
+     - What interface does the initial configurations use?
+    * [0] Implementation details in place
+      - [15] There are no details of the implementation of the features described.
+      - How do you setup a bluetooth connection?
+      - How do you enter / exit low power states?
+      - How do you load new firmware into memory?
+      - How do you keep track of real time when you enter low-power mode?
+      - For each feature what do you need to do in order to get
+        that feature working in the prototype?
+      - For example if you use the cellular modem how are you going
+        to go about connecting to it, interacting with it, and 
+        sending data over it? In very concrete terms, what is the
+        interface provided by the cellular modem, and how will
+        that affect your design and schedule? 
+    * [0] Missing items mentioned as further research could add back some points
+  + [8] Schedule / Milestones :: 10 points 
+    * [3] weekly schedule for each feature mentioned
+      - scheduled milestones but not each feature
+    * [5] description of the milestones
+    * I am uncertain whether the firmware update is within the difficulty
+      range acceptable for these projects, because I am uncertain
+      how to do this myself. 
+    * I think it would be just as acceptable to include bluetooth as your
+      milestone 4 goal and have the authentication as a stretch goal.
+
+

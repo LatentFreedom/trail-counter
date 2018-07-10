@@ -1,0 +1,17 @@
+##################################
+#### Personal Goals Statement ####
+##################################
+
+* Who are the members of your team?
+1. Nick Palumbo (npalumbo)
+2. Isaac Fisch (ifisch)
+
+* What is the URL of your team's repository?
+https://github.iu.edu/npalumbo/trailcounter
+
+* What are your personal learning objectives for this project? What one area of the project is most interesting to you?
+My personal learning objectives for this project are learning more about making a device that is both memory and energy efficient. When implementing the trail counter we have to make the batter last hopefully around a year and being able to add the functionality of sleeping/waking/suspending processes so that the energy is not used on unneeded processes will be helpful knowledge.
+Another area is bluetooth. I am interesting in being able to pull information from a device that is not directly connected to a computer. Being able to collect data over the air is interesting and is needed for most devices made.
+
+* Do you have any concerns about your team or the project?
+The only concerns I have about the project are time constraints when it comes to implementing our added functionality that we get to choose. I want to add bluetooth functionality but may not be able to given the time it takes to learn how to actually implement it. I want to be able to do this and hope that it is easier then you guys make it sound. 
